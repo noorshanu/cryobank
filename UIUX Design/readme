@@ -1,0 +1,8 @@
+For the Dashboard frontend, we'll develop it in a way that mirrors the actual website. It will be intuitive for anyone to grasp and use comfortably.
+
+Regarding the UI/UX of the landing page, it will seamlessly integrate with both the backend system and any third-party dashboards we're utilizing. While we're maintaining elements of our old website, it will undergo modifications to align with our new system and functionalities.
+
+To initiate the migration process for the old website, we'll utilize the WordPress admin panel to download the migration files. We'll make use of the "All-in-One WP Migration" plugin for this purpose.
+
+Please provide me with the migration file once it's ready so I can commence work on the landing page. Additionally, for the backend dashboard, kindly share the dashboard software you've purchased, along with any necessary extensions. This will enable us to ensure seamless integration and functionality.
+
