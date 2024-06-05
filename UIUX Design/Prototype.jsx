@@ -2,4 +2,4 @@ Designing the frontend and bacnkend UI Prototypes and sharing it with client eit
 
 Estimated Hours: 
 
-Cost: $20/hour =
+Cost:
