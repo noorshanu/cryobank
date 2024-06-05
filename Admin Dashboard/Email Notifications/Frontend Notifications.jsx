@@ -12,4 +12,4 @@ must complete [forms] before you can schedule your delivery.
 
 
 
-
+48 hours
